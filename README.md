@@ -24,10 +24,12 @@ int main() {
     
     return 0;
 }
+```
 ## OUTPUT:
 
-Modified value: 25.00
-```
+![Screenshot 2025-04-27 152652](https://github.com/user-attachments/assets/f85eef77-3de9-476b-8dcd-556a7e3fde75)
+
+
 ## RESULT:
 Thus the program to convert a 23.65 into 25 using pointer has been executed successfully.
  
@@ -70,10 +72,10 @@ int main() {
     
     return 0;
 }
-
-## OUTPUT:
-The product of the first 12 natural numbers is: 479001600
 ```
+## OUTPUT:
+![Screenshot 2025-04-27 152746](https://github.com/user-attachments/assets/a70eac93-844e-41a3-b065-ae70eae0417a)
+
          		
 ## RESULT:
 
@@ -126,15 +128,11 @@ int main() {
     
     return 0;
 }
-## OUTPUT
-Enter number of rows: 2
-Enter number of columns: 3
-Enter elements of the matrix:
-1 2 3
-4 5 6
-Sum of row 1 = 6
-Sum of row 2 = 15
 ```
+## OUTPUT
+
+![Screenshot 2025-04-27 152937](https://github.com/user-attachments/assets/ac171d92-27db-4d14-9090-0f01b25c7d25)
+
 
  ## RESULT
 Thus the C program to String process executed successfully
@@ -179,16 +177,11 @@ int main() {
     
     return 0;
 }
-
- ## OUTPUT
-Enter a string: PROGRAM
-Enter number of rows: 5
-P R O G R A M 
-P R O G R A M 
-P R O G R A M 
-P R O G R A M 
-P R O G R A M 
 ```
+ ## OUTPUT
+
+![Screenshot 2025-04-27 153315](https://github.com/user-attachments/assets/35570a4c-9909-4590-8e1a-b9a30d64c47c)
+
 
 ## RESULT
 
@@ -196,7 +189,7 @@ Thus the C program to String process executed successfully
  
 
  
-.
+
 
 
 
@@ -243,15 +236,11 @@ int main() {
     
     return 0;
 }
-
+```
 
 ## OUTPUT
-Enter number of elements (max 10): 6
-Enter 6 elements:
-5 10 15 20 25 30
-The array elements are:
-5 10 15 20 25 30
-```
+
+![Screenshot 2025-04-27 153628](https://github.com/user-attachments/assets/20664321-e252-480d-9130-0ef79d316faa)
 
  
 
